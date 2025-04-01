@@ -88,9 +88,9 @@ mongodb+srv://harshavardanbandari:<db_password>@cluster0.6wrqh.mongodb.net/?retr
          echo $AWS_SECRET_ACCESS_KEY
 
          >> Set env var from powershell terminal: <<
-         $env:AWS_ACCESS_KEY_ID="AKIAVOJ4XNS3MZUNIHZG"
-         $env:AWS_SECRET_ACCESS_KEY="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"
-         >> Check env var from powershell terminal: <<
+         $env:AWS_ACCESS_KEY_ID=""
+         $env:AWS_SECRET_ACCESS_KEY=""
+         >> Check env var from poweshell terminal: <<
          echo $env:AWS_ACCESS_KEY_ID
          echo $env:AWS_SECRET_ACCESS_KEY
       ====================================================================================
